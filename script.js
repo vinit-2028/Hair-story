@@ -9,7 +9,7 @@
    6. Contact form (validation, WhatsApp submit)
    ========================================================= */
 
-const WHATSAPP_NUMBER = '9195291 43422';
+const WHATSAPP_NUMBER = '919762570918';
 
 // TODO: Replace with your real Formspree endpoint.
 // Sign up free at https://formspree.io -> create a new form -> copy the
